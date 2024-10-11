@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+   background-color: black;
+   color:white;
+    align-items: center;
+}
+.listitems ul{
+ display: flex;
+ list-style: none;
+ gap: 80px;
+ margin-right:120px;
+}
+.listitems li:hover{
+    color: rgb(99, 97, 176);
+}
